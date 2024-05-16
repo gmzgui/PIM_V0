@@ -228,9 +228,10 @@
             ClientSize = new Size(804, 509);
             Controls.Add(panelForm);
             Controls.Add(panelMenu);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "MainMenu";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Form1";
+            Text = "VisionFarm";
             Closed += MainMenu_Closed;
             panelMenu.ResumeLayout(false);
             panel1.ResumeLayout(false);

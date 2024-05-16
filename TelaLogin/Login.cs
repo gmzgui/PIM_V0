@@ -28,9 +28,9 @@ namespace TelaLogin
 
             if (userLogin.scanUserPassword(userTxtLogin, userTxtPassword))
             {
-                this.Hide();
                 MainMenu Menu = new MainMenu();
                 Menu.Show();
+                this.Hide();
             }
             else
             {

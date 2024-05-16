@@ -26,3 +26,4 @@ C:\Users\User\source\repos\PIM\TELA\TelaLogin\TelaLogin\TelaLogin\obj\Debug\net8
 C:\Users\User\source\repos\PIM\TELA\TelaLogin\TelaLogin\TelaLogin\obj\Debug\net8.0-windows\TelaPIM.FrmSuppliers.resources
 C:\Users\User\source\repos\PIM\TELA\TelaLogin\TelaLogin\TelaLogin\obj\Debug\net8.0-windows\TelaPIM.MainMenu.resources
 C:\Users\User\source\repos\PIM\TELA\TelaLogin\TelaLogin\TelaLogin\obj\Debug\net8.0-windows\TelaLogin.Login.resources
+C:\Users\User\source\repos\PIM\TELA\TelaLogin\TelaLogin\TelaLogin\obj\Debug\net8.0-windows\TelaLogin.sourcelink.json
